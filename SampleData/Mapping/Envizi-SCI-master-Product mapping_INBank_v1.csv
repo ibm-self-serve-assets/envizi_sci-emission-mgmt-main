@@ -1,0 +1,11 @@
+﻿Category L3 ID,Category L3 name,Category L2 ID,Category L1 ID,Emissions factor ID
+INF01_Computers,INF01_Computers,INF01_Laptops and Desktops,INF01_IT infrastructure,Computer and electronic products
+INF01_Furniture,INF01_Furniture,INF01_Ineteriors,INF01_Furniture, Furniture and related products
+INF01_Monitors,INF01_Monitors,INF01_Screens,INF01_IT infrastructure,"Electrical equipment, appliances, other"
+INF01_Cash counters,INF01_Cash counters,INF01_Counting Machines,INF01_Bank Machinery,Fabricated metal products
+INF01_ATM Machines,INF01_ATM Machines,INF01_Money Vending Machines,INF01_Bank Machinery,Machinery
+INF01_Multifunctional Printers,INF01_Multifunctional Printers,INF01_Printers,INF01_IT infrastructure,"Electrical equipment, appliances, other"
+INF01_Check Scanners,INF01_Check Scanners,INF01_Counting Machines,INF01_Bank Machinery,Utilities
+INF01_CourierServices-Dom,INF01_CourierServices-Dom,INF01_Courier Services,INF01_T&D Network,Truck transportation
+INF01_CourierServices-Intl,INF01_CourierServices-Intl,INF01_Courier Services,INF01_T&D Network,Air transportation
+INF01_Paper,INF01_Paper,INF01_Office papers,INF01_Stationary General,Paper products

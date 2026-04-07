@@ -1,0 +1,4 @@
+﻿Location ID,Name,Address,City,State-province,Postal code,Country,Region,Coordinates
+INF01_INBank-APAC-Ops,INF01_INBank-APAC-Ops,123 Bandra,Mumbai,Maharashtra,400001,IND,West,"18.9388,72.8258"
+INF01_INBank-EMEA-Ops,INF01_INBank-EMEA-Ops,456 Queens Street,London ,England,SW1A 1AA ,GBR, South East ,"51.5072,-0.1276"
+INF01_INBank-US-Ops,INF01_INBank-US-Ops,789 Main Street,New York,NY,10001,USA,Northeast,"40.7128,-74.006"

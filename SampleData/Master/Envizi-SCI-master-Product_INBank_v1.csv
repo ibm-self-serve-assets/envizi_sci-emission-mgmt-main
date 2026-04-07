@@ -1,0 +1,30 @@
+﻿Product ID,Supplier ID,Supplier product ID,Category L3 ID,Category L2 ID,Category L1 ID,Name,Description,Default quantity units,Value,Currency,Measurement,Measurement unit,Status
+INF01_1001,INF01_Apple,INF01_Apple Macbook Pro 15 inch,INF01_Computers,INF01_Laptops and Desktops,INF01_IT infrastructure,INF01_Apple Macbook Pro 15 inch,,EA,1200,USD,1,EA,ACTIVE
+INF01_1002,INF01_Stanely,INF01_Stanely Office chair large ,INF01_Furniture,INF01_Ineteriors,INF01_Furniture,INF01_Stanely Office chair large ,,EA,300,USD,,,ACTIVE
+INF01_1003,INF01_Sony,INF01_Sony LED Monitor 50 inch,INF01_Monitors,INF01_Screens,INF01_IT infrastructure,INF01_Sony LED Monitor 50 inch,,EA,1000,USD,1,EA,ACTIVE
+INF01_1004,INF01_Phoenix,INF01_Phoenix Cash counter,INF01_Cash counters,INF01_Counting Machines,INF01_Bank Machinery,INF01_Phoenix Cash counter,,EA,200,USD,,,ACTIVE
+INF01_1005,INF01_Hitachi,INF01_Hitachi ATM Machine,INF01_ATM Machines,INF01_Money Vending Machines,INF01_Bank Machinery,INF01_Hitachi ATM Machine,,EA,5000,USD,,,ACTIVE
+INF01_1006,INF01_Canon,INF01_Canon Multifunctional Printers,INF01_Multifunctional Printers,INF01_Printers,INF01_IT infrastructure,INF01_Canon Multifunctional Printers,,EA,400,USD,,,ACTIVE
+INF01_1007,INF01_Epson,INF01_Epson Digital Scanner,INF01_Check Scanners,INF01_Counting Machines,INF01_Bank Machinery,INF01_Epson Digital Scanner,,EA,100,USD,,,ACTIVE
+INF01_1008,INF01_HP,INF01_HP  i5 Laptop 15 inch,INF01_Computers,INF01_Laptops and Desktops,INF01_IT infrastructure,INF01_HP  i5 Laptop 15 inch,,EA,1100,USD,,,ACTIVE
+INF01_1009,INF01_ASHLEY,INF01_ASHLEY Office Chair Flexibe  ,INF01_Furniture,INF01_Ineteriors,INF01_Furniture,INF01_ASHLEY Office Chair Flexibe  ,,EA,400,USD,,,ACTIVE
+INF01_1010,INF01_Samsung,INF01_Samsung LED Monitor 50 inch,INF01_Monitors,INF01_Screens,INF01_IT infrastructure,INF01_Samsung LED Monitor 50 inch,,EA,1500,USD,,,ACTIVE
+INF01_1011,INF01_Godrej,INF01_Godrej Cash counter,INF01_Cash counters,INF01_Counting Machines,INF01_Bank Machinery,INF01_Godrej Cash counter,,EA,200,USD,,,ACTIVE
+INF01_1012,INF01_NCR,INF01_NCR ATM Machine,INF01_ATM Machines,INF01_Money Vending Machines,INF01_Bank Machinery,INF01_NCR ATM Machine,,EA,7000,USD,,,ACTIVE
+INF01_1013,INF01_Brothers,INF01_Brothers Multifunctional Printers,INF01_Multifunctional Printers,INF01_Printers,INF01_IT infrastructure,INF01_Brothers Multifunctional Printers,,EA,500,USD,,,ACTIVE
+INF01_1014,INF01_CZUR,INF01_CZUR Digital Scanner,INF01_Check Scanners,INF01_Counting Machines,INF01_Bank Machinery,INF01_CZUR Digital Scanner,,EA,150,USD,,,ACTIVE
+INF01_1015,INF01_Inspiron,INF01_Inspiron 3520 15 Inch,INF01_Computers,INF01_Laptops and Desktops,INF01_IT infrastructure,INF01_Inspiron 3520 15 Inch,,EA,1200,USD,,,ACTIVE
+INF01_1016,INF01_DURIAN,INF01_DURIAN Office chair Erognomic ,INF01_Furniture,INF01_Ineteriors,INF01_Furniture,INF01_DURIAN Office chair Erognomic ,,EA,500,USD,,,ACTIVE
+INF01_1017,INF01_LG,INF01_LG LED Monitor 50 inch,INF01_Monitors,INF01_Screens,INF01_IT infrastructure,INF01_LG LED Monitor 50 inch,,EA,1000,USD,1,EA,ACTIVE
+INF01_1018,INF01_Kores,INF01_Kores Cash counter,INF01_Cash counters,INF01_Counting Machines,INF01_Bank Machinery,INF01_Kores Cash counter,,EA,200,USD,,,ACTIVE
+INF01_1019,INF01_Triton,INF01_Triton ATM Machine,INF01_ATM Machines,INF01_Money Vending Machines,INF01_Bank Machinery,INF01_Triton ATM Machine,,EA,6000,USD,,,ACTIVE
+INF01_1020,INF01_Lexmas,INF01_Lexmas Multifunctional Printers,INF01_Multifunctional Printers,INF01_Printers,INF01_IT infrastructure,INF01_Lexmas Multifunctional Printers,,EA,700,USD,,,ACTIVE
+INF01_1021,INF01_Fujitsu,INF01_Fujitsu Digital Scanner,INF01_Check Scanners,INF01_Counting Machines,INF01_Bank Machinery,INF01_Fujitsu Digital Scanner,,EA,200,USD,,,ACTIVE
+INF01_1022,INF01_PGPaper,INF01_Paper-PGP-EU,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-PGP-EU,,EA,10,USD,,,ACTIVE
+INF01_1023,INF01_CalcoPaper,INF01_Paper-Calco-EU,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-Calco-EU,,EA,13,USD,,,ACTIVE
+INF01_1024,INF01_Domtar,INF01_Paper-Domtar-EU,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-Domtar-EU,,EA,14,USD,,,ACTIVE
+INF01_1025,INF01_Verso,INF01_Paper-Verso-USA,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-Verso-USA,,EA,8,USD,,,ACTIVE
+INF01_1026,INF01_Sappi,INF01_Paper-Sappi-USA,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-Sappi-USA,,EA,9,USD,,,ACTIVE
+INF01_1027,INF01_JKaper,INF01_Paper-JkPaper-IN,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-JkPaper-IN,,EA,6,USD,,,ACTIVE
+INF01_1028,INF01_WestCoast,INF01_Paper-WC-IN,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-WC-IN,,EA,7,USD,,,ACTIVE
+INF01_1029,INF01_ITC,INF01_Paper-ITC-IN,INF01_Paper,INF01_Office papers,INF01_Stationary General,INF01_Paper-ITC-IN,,EA,9,USD,,,ACTIVE

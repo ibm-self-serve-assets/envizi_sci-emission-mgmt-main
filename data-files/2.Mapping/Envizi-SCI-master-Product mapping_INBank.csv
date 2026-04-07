@@ -1,0 +1,11 @@
+﻿Category L3 ID,Category L3 name,Category L2 ID,Category L1 ID,Emissions factor ID
+Computers,Computers,Laptops and Desktops,IT infrastructure,Computer and electronic products
+Furniture,Furniture,Ineteriors,Furniture, Furniture and related products
+Monitors,Monitors,Screens,IT infrastructure,"Electrical equipment, appliances, other"
+Cash counters,Cash counters,Counting Machines,Bank Machinery,Fabricated metal products
+ATM Machines,ATM Machines,Money Vending Machines,Bank Machinery,Machinery
+Multifunctional Printers,Multifunctional Printers,Printers,IT infrastructure,"Electrical equipment, appliances, other"
+Check Scanners,Check Scanners,Counting Machines,Bank Machinery,Utilities
+CourierServices-Dom,CourierServices-Dom,Courier Services,T&D Network,Truck transportation
+CourierServices-Intl,CourierServices-Intl,Courier Services,T&D Network,Air transportation
+Paper,Paper,Office papers,Stationary General,Paper products

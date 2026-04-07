@@ -1,0 +1,30 @@
+﻿Product ID,Supplier ID,Supplier product ID,Category L3 ID,Category L2 ID,Category L1 ID,Name,Description,Default quantity units,Value,Currency,Measurement,Measurement unit,Status
+1001,Apple,Apple Macbook Pro 15 inch,Computers,Laptops and Desktops,IT infrastructure,Apple Macbook Pro 15 inch,,EA,1200,USD,,,ACTIVE
+1002,Stanely,Stanely Office chair large ,Furniture,Ineteriors,Furniture,Stanely Office chair large ,,EA,300,USD,,,ACTIVE
+1003,Sony,Sony LED Monitor 50 inch,Monitors,Screens,IT infrastructure,Sony LED Monitor 50 inch,,EA,1000,USD,,,ACTIVE
+1004,Phoenix,Phoenix Cash counter,Cash counters,Counting Machines,Bank Machinery,Phoenix Cash counter,,EA,200,USD,,,ACTIVE
+1005,Hitachi,Hitachi ATM Machine,ATM Machines,Money Vending Machines,Bank Machinery,Hitachi ATM Machine,,EA,5000,USD,,,ACTIVE
+1006,Canon,Canon Multifunctional Printers,Multifunctional Printers,Printers,IT infrastructure,Canon Multifunctional Printers,,EA,400,USD,,,ACTIVE
+1007,Epson,Epson Digital Scanner,Check Scanners,Counting Machines,Bank Machinery,Epson Digital Scanner,,EA,100,USD,,,ACTIVE
+1008,HP,HP  i5 Laptop 15 inch,Computers,Laptops and Desktops,IT infrastructure,HP  i5 Laptop 15 inch,,EA,1100,USD,,,ACTIVE
+1009,ASHLEY,ASHLEY Office Chair Flexibe  ,Furniture,Ineteriors,Furniture,ASHLEY Office Chair Flexibe  ,,EA,400,USD,,,ACTIVE
+1010,Samsung,Samsung LED Monitor 50 inch,Monitors,Screens,IT infrastructure,Samsung LED Monitor 50 inch,,EA,1500,USD,,,ACTIVE
+1011,Godrej,Godrej Cash counter,Cash counters,Counting Machines,Bank Machinery,Godrej Cash counter,,EA,200,USD,,,ACTIVE
+1012,NCR,NCR ATM Machine,ATM Machines,Money Vending Machines,Bank Machinery,NCR ATM Machine,,EA,7000,USD,,,ACTIVE
+1013,Brothers,Brothers Multifunctional Printers,Multifunctional Printers,Printers,IT infrastructure,Brothers Multifunctional Printers,,EA,500,USD,,,ACTIVE
+1014,CZUR,CZUR Digital Scanner,Check Scanners,Counting Machines,Bank Machinery,CZUR Digital Scanner,,EA,150,USD,,,ACTIVE
+1015,Inspiron,Inspiron 3520 15 Inch,Computers,Laptops and Desktops,IT infrastructure,Inspiron 3520 15 Inch,,EA,1200,USD,,,ACTIVE
+1016,DURIAN,DURIAN Office chair Erognomic ,Furniture,Ineteriors,Furniture,DURIAN Office chair Erognomic ,,EA,500,USD,,,ACTIVE
+1017,LG,LG LED Monitor 50 inch,Monitors,Screens,IT infrastructure,LG LED Monitor 50 inch,,EA,1000,USD,,,ACTIVE
+1018,Kores,Kores Cash counter,Cash counters,Counting Machines,Bank Machinery,Kores Cash counter,,EA,200,USD,,,ACTIVE
+1019,Triton,Triton ATM Machine,ATM Machines,Money Vending Machines,Bank Machinery,Triton ATM Machine,,EA,6000,USD,,,ACTIVE
+1020,Lexmas,Lexmas Multifunctional Printers,Multifunctional Printers,Printers,IT infrastructure,Lexmas Multifunctional Printers,,EA,700,USD,,,ACTIVE
+1021,Fujitsu,Fujitsu Digital Scanner,Check Scanners,Counting Machines,Bank Machinery,Fujitsu Digital Scanner,,EA,200,USD,,,ACTIVE
+1022,PGPaper,Paper-PGP-EU,Paper,Office papers,Stationary General,Paper-PGP-EU,,EA,10,USD,10,kg,ACTIVE
+1023,CalcoPaper,Paper-Calco-EU,Paper,Office papers,Stationary General,Paper-Calco-EU,,EA,13,USD,10,kg,ACTIVE
+1024,Domtar,Paper-Domtar-EU,Paper,Office papers,Stationary General,Paper-Domtar-EU,,EA,14,USD,10,kg,ACTIVE
+1025,Verso,Paper-Verso-USA,Paper,Office papers,Stationary General,Paper-Verso-USA,,EA,8,USD,10,kg,ACTIVE
+1026,Sappi,Paper-Sappi-USA,Paper,Office papers,Stationary General,Paper-Sappi-USA,,EA,9,USD,10,kg,ACTIVE
+1027,JKaper,Paper-JkPaper-IN,Paper,Office papers,Stationary General,Paper-JkPaper-IN,,EA,6,USD,10,kg,ACTIVE
+1028,WestCoast,Paper-WC-IN,Paper,Office papers,Stationary General,Paper-WC-IN,,EA,7,USD,10,kg,ACTIVE
+1029,ITC,Paper-ITC-IN,Paper,Office papers,Stationary General,Paper-ITC-IN,,EA,9,USD,10,kg,ACTIVE
