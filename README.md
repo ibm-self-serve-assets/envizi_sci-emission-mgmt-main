@@ -58,8 +58,6 @@ Categorize INBank’s products using a three-level hierarchy and map each produc
 ### 3. Import Transactional Data
 Once master data and mappings are set up (and rarely change), focus on importing transactional data—specifically, purchase transactions such as orders and order lines—into the system.
 
-### 4. Troubleshooting
-This section covers the general issues which are encountered during the data ingestion and how to address the same.
 
 ---
 Let’s explore each of these steps in detail. For a deeper understanding of [data modeling](dataModel.md) and the relationships between objects created by these templates, refer to the official documentation.
